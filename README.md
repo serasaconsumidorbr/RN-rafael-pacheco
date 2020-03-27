@@ -1,10 +1,10 @@
 # Olá, tudo bem?
 
-A proposta deste teste é analisar a sua capacidade de desenvolver uma arquitetura visando o maior reaproveitamento entre o mobile e a web.
-Para este teste você deverá desenvolver um fluxo de login/cadastro utilizando React + React Native + Redux.
+A proposta deste teste é analisar a sua capacidade de desenvolver uma arquitetura visando o maior **reaproveitamento** entre o mobile e a web.
+Para este teste você deverá desenvolver um ***APP** e uma aplicação **Web*** com um fluxo de login/cadastro utilizando React + React Native + Redux.
 
-# App
-O app deverá conter 4 páginas:
+# App e Aplicação Web
+O **App** a aplicação ***Web*** deverá conter 4 páginas:
   - **/login**: Página contendo um formulário com os campos usuário e senha e 2 botões login e signup.
     - Caso o usuário clique no botão login:
      Deverá ser validado se o usuário possui um cadastro com este login realizando um **POST** na API http://www.mocky.io/v2/5defab092f0000e7848e0c9e com um body ***JSON*** contendo o usuário e senha conforme o seguinte exemplo:
